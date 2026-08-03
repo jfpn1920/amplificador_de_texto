@@ -1,0 +1,1 @@
+# amplificador_de_texto
